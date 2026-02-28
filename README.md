@@ -2,7 +2,9 @@
 
 <div align="center">
 
-<img src="./assets/banner.svg" width="100%" alt="XIAORAN · Research x Engineering" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,50:8A2BE2,100:FF2BD6&height=160&section=header&text=XIAORAN&fontColor=EAF7FF&fontAlignY=55&desc=Agentic%20R%26D%20%C2%B7%20Controllable%20Automation%20%C2%B7%20Planning%20%26%20Control&descAlignY=78&descSize=18" width="100%" alt="XIAORAN" />
+
+<img src="https://readme-typing-svg.demolab.com?font=SF+Mono&pause=900&color=8A2BE2&center=true&vCenter=true&width=800&lines=%E5%A4%9A%E6%99%BA%E8%83%BD%E4%BD%93%E5%8D%8F%E4%BD%9C+%7C+%E5%8F%AF%E6%8E%A7%E8%87%AA%E5%8A%A8%E5%8C%96+%7C+%E8%A7%84%E5%88%92%E4%B8%8E%E6%8E%A7%E5%88%B6;Developer+Tools+%2F+Agent+Ops+%2F+Autonomy" alt="typing" />
 
 # XIAORAN
 
