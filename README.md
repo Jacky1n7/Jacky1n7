@@ -6,8 +6,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=SF+Mono&pause=900&color=8A2BE2&center=true&vCenter=true&width=800&lines=%E5%A4%9A%E6%99%BA%E8%83%BD%E4%BD%93%E5%8D%8F%E4%BD%9C+%7C+%E5%8F%AF%E6%8E%A7%E8%87%AA%E5%8A%A8%E5%8C%96+%7C+%E8%A7%84%E5%88%92%E4%B8%8E%E6%8E%A7%E5%88%B6;Developer+Tools+%2F+Agent+Ops+%2F+Autonomy" alt="typing" />
 
-# XIAORAN
-
 **面向智能体与自动化的研发工程（Agentic R&D Engineering）**  
 研究取向：多智能体协作、可控自动化、可验证的软件工程与文档生成  
 应用方向：开发者工具 / 控制系统 / 自动驾驶（规划-控制-系统工程）
