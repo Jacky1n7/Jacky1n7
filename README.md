@@ -1,65 +1,100 @@
-<!-- Profile README for Jacky1n7 -->
+<!-- @Jacky1n7 · Xiaoran Li -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,50:8A2BE2,100:FF2BD6&height=160&section=header&text=XIAORAN&fontColor=EAF7FF&fontAlignY=55&desc=Agentic%20R%26amp%3BD%20%C2%B7%20Controllable%20Automation%20%C2%B7%20Planning%20%26amp%3B%20Control&descAlignY=78&descSize=18" width="100%" alt="XIAORAN" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b6cb0,100:2c7a7b&height=120&section=header&fontSize=0" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=SF+Mono&pause=900&color=8A2BE2&center=true&vCenter=true&width=800&lines=%E5%A4%9A%E6%99%BA%E8%83%BD%E4%BD%93%E5%8D%8F%E4%BD%9C+%7C+%E5%8F%AF%E6%8E%A7%E8%87%AA%E5%8A%A8%E5%8C%96+%7C+%E8%A7%84%E5%88%92%E4%B8%8E%E6%8E%A7%E5%88%B6;Developer+Tools+%2F+Agent+Ops+%2F+Autonomy" alt="typing" />
+## Xiaoran Li &nbsp;👋
 
-**面向智能体与自动化的研发工程（Agentic R&D Engineering）**  
-研究取向：多智能体协作、可控自动化、可验证的软件工程与文档生成  
-应用方向：开发者工具 / 控制系统 / 自动驾驶（规划-控制-系统工程）
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=2B6CB0&center=true&vCenter=true&width=500&lines=Multi-Agent+Systems+%C2%B7+Controllable+Automation;Developer+Tools+%C2%B7+Agent+Ops;Planning+%26+Control+%C2%B7+Autonomous+Driving" alt="typing" />
 
-<p>
-  <a href="https://github.com/Jacky1n7">GitHub</a> ·
-  <a href="https://github.com/openclaw/openclaw/pull/29013">OpenClaw PR</a> ·
-  <a href="https://github.com/Jacky1n7/openclaw-skill-tavily-search">OpenClaw Skill</a>
-</p>
+北化工在读 · 专注**多智能体协作**、**可控自动化**与**自动驾驶**
 
 </div>
 
 ---
 
-## 研究与工程兴趣（Research & Engineering Interests）
+### 🧭 方向
 
-- **多智能体协作系统**：分工、状态机、审稿循环（review loop）、引用/证据闭环
-- **可控自动化（Controllable Automation）**：权限边界、审计、可解释的执行轨迹
-- **控制与自动驾驶**：规划（Planning）× 控制（Control）× 工程化部署（Systems）
-- **工具链工程**：把“智能”工程化为可维护、可复现、可迭代的生产力
-
----
-
-## 代表性项目（Selected Projects）
-
-### OpenClaw Tavily Search Skill（多智能体联网检索）
-- 用途：在 OpenClaw 中通过 Tavily 做网页搜索，输出结构化结果（便于引用/总结/写作）
-- Repo：<https://github.com/Jacky1n7/openclaw-skill-tavily-search>
-
-### 柑橘树生长模型可视化系统（Web）
-- 方向：生长模型的标准化表达与可视化展示（面向科研与工程复现）
-- Repo：<https://github.com/Jacky1n7/citrus-standard-tree-web>
-
-### OpenClaw 上游贡献（Discord Components v2 交互兼容）
-- 目标：提升 Components v2 的交互解析兼容性，降低面板/按钮“失效”概率
-- PR：<https://github.com/openclaw/openclaw/pull/29013>
+| | |
+|:---|:---|
+| 🤖 **多智能体系统** | 分工协作 · 状态机 · 审稿循环 · 证据闭环 |
+| 🔒 **可控自动化** | 权限边界 · 审计轨迹 · 可解释执行 |
+| 🚗 **自动驾驶** | 规划 × 控制 × 系统工程 |
+| 🔧 **工具链工程** | 可维护 · 可复现 · 可迭代 |
 
 ---
 
-## 工作方式（Research-grade Workflow）
+### 🛠 技术栈
 
-- **证据优先**：结论尽量落到实验日志 / 代码 / 可复现步骤
-- **迭代闭环**：最小可用闭环（MVP）→ 评审 → 强化鲁棒性与体验
-- **文档即接口**：把运行、复现、评审写成可执行说明
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+</p>
 
 ---
 
-## Contact
+### 📌 代表项目
 
-- GitHub：<https://github.com/Jacky1n7>
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/Jacky1n7/openclaw-skill-tavily-search"><b>🔍 openclaw-skill-tavily-search</b></a><br/>
+      <sub>Tavily 驱动的 OpenClaw 联网检索 Skill，结构化输出便于引用与总结</sub>
+    </td>
+    <td>
+      <a href="https://github.com/Jacky1n7/openclaw-research-playbook"><b>📋 openclaw-research-playbook</b></a><br/>
+      <sub>多智能体科研工作流 · 轻量护栏 · 去重与无新信号退出 · 文件记忆优先</sub>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/Jacky1n7/citrus-standard-tree-web"><b>🌳 citrus-standard-tree-web</b></a><br/>
+      <sub>标准化柑橘树生长模型 Web 可视化系统</sub>
+    </td>
+    <td>
+      <a href="https://github.com/Jacky1n7/nerf-plant-phenotyping-study"><b>🌿 nerf-plant-phenotyping-study</b></a><br/>
+      <sub>基于 NeRF 的植物表型分析研究</sub>
+    </td>
+  </tr>
+</table>
 
-<details>
-<summary>Neon Notes</summary>
+---
 
-Build agent systems like we build safety-critical systems: **interfaces, invariants, audits, and reproducibility**.
+### 📊 统计
 
-</details>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Jacky1n7&show_icons=true&hide_border=true&bg_color=00000000&title_color=58a6ff&icon_color=3fb950&text_color=c9d1d9" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Jacky1n7&show_icons=true&hide_border=true&bg_color=00000000&title_color=2b6cb0&icon_color=2c7a7b&text_color=24292f" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=Jacky1n7&show_icons=true&hide_border=true" />
+  </picture>
+  &nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Jacky1n7&layout=compact&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=c9d1d9" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Jacky1n7&layout=compact&hide_border=true&bg_color=00000000&title_color=2b6cb0&text_color=24292f" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jacky1n7&layout=compact&hide_border=true" />
+  </picture>
+</div>
+
+<br/>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Jacky1n7&hide_border=true&background=00000000&ring=58a6ff&fire=3fb950&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=6e7681&currStreakNum=c9d1d9&sideNums=c9d1d9" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Jacky1n7&hide_border=true&background=00000000&ring=2b6cb0&fire=2c7a7b&currStreakLabel=24292f&sideLabels=24292f&dates=57606a&currStreakNum=24292f&sideNums=24292f" />
+    <img src="https://streak-stats.demolab.com?user=Jacky1n7&hide_border=true" />
+  </picture>
+</div>
+
+---
+
+<div align="center">
+  <sub><i>Build agent systems like safety-critical systems — interfaces, invariants, audits, reproducibility.</i></sub>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b6cb0,100:2c7a7b&height=80&section=footer&fontSize=0" width="100%" />
