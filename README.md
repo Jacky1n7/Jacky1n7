@@ -21,6 +21,22 @@ AI agents, scientific workflows, and dependable software delivery.
 - **Systems engineering:** desktop tooling, API integrations, CI/release automation, and cross-platform compatibility.
 - **Autonomous systems:** planning, control, and the engineering foundations of autonomous driving.
 
+## Featured project
+
+### [Tavily Search for OpenClaw](https://clawhub.ai/jacky1n7/skills/openclaw-tavily-search)
+
+**100k+ all-time downloads on ClawHub.** A lightweight Python skill that gives OpenClaw agents
+structured web search through Tavily, with raw JSON, Brave-compatible, and Markdown output modes.
+It is designed for research, source discovery, summaries, and multi-agent workflows without adding
+another server component.
+
+```bash
+openclaw skills install @jacky1n7/openclaw-tavily-search
+```
+
+[Source](https://github.com/Jacky1n7/openclaw-skill-tavily-search) ·
+[ClawHub listing](https://clawhub.ai/jacky1n7/skills/openclaw-tavily-search)
+
 ## Open-source contributions
 
 | Project | Contribution | Shipped result |
@@ -34,7 +50,6 @@ AI agents, scientific workflows, and dependable software delivery.
 
 | Repository | Focus |
 | --- | --- |
-| [openclaw-skill-tavily-search](https://github.com/Jacky1n7/openclaw-skill-tavily-search) | Tavily-powered OpenClaw search skill with structured, citation-friendly output |
 | [openclaw-research-playbook](https://github.com/Jacky1n7/openclaw-research-playbook) | Multi-agent research and coding workflows with lightweight operational guardrails |
 | [pcr532-studio](https://github.com/Jacky1n7/pcr532-studio) | Rust-based macOS PCR532 utility for direct UART access, local backups, and NDEF workflows |
 | [codex-global-history-sidebar-patch](https://github.com/Jacky1n7/codex-global-history-sidebar-patch) | Reversible tooling for global local-history visibility in Codex Desktop |
